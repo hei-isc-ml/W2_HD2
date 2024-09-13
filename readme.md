@@ -20,7 +20,7 @@ A continuation of your previous Jupyter notebook to prepare the data for classif
 - Comment on the results
 - Provide direct answers to **all** the questions listed below (Section [Questions](#questions))
 
-## Tasks – Preprocessing
+## Tasks – Data preparation
 0.  Copy & Paste your notebook (the .ipynb file) from the previous part in this folder.
     In the terminal, `cd` to the project folder and run the following instructions:
 
